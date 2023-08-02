@@ -58,8 +58,9 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 E-commerce Store <a name="about-project"></a>
 
-E-commerce Store is a the frontend of an e-commerce store. It is built with Nextjs and Tailwindcss. It is a fully responsive website. The database is hosted on PlanetScale and the backend is hosted on Vercel. The website is deployed on Vercel and makes use of Zustand for state management.
+The E-commerce Store serves as the frontend of an online retail platform, skillfully constructed using Next.js and Tailwind CSS. The website boasts full responsiveness, seamlessly adapting to different devices and screen sizes.
 
+For a seamless user experience, the application's database is securely hosted on PlanetScale, while the dynamic backend operations are efficiently handled by Vercel. With Zustand empowering state management, the website ensures efficient data handling and real-time updates.
 [Backend](https://ecommerce-admin-next-jade.vercel.app/)
 
 ## 🛠 Built With <a name="built-with"></a>
